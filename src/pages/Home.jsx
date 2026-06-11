@@ -1,6 +1,6 @@
 import Navbar from '../components/layout/Navbar'
 import Hero from '../components/home/Hero'
-import About from '../components/home/About'
+import About from '../components/home/about'
 import BestSelling from '../components/home/BestSelling'
 import WhatWeServe from '../components/home/WhatWeServe'
 import Feedback from '../components/home/Feedback'
