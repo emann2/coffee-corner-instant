@@ -1,10 +1,10 @@
 import Navbar from '../components/layout/Navbar'
 import Hero from '../components/home/Hero'
 import About from '../components/home/about'
-import BestSelling from '../components/home/BestSelling'
-import WhatWeServe from '../components/home/WhatWeServe'
-import Feedback from '../components/home/Feedback'
-import Contact from '../components/home/Contact'
+import BestSelling from '../components/home/bestSelling'
+import WhatWeServe from '../components/home/whatWeServe'
+import Feedback from '../components/home/feedback'
+import Contact from '../components/home/contact'
 import Footer from '../components/layout/Footer'
 
 function Home() {
